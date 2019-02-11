@@ -18,6 +18,7 @@
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
+        android:background="@color/materialcolorpicker__white"
         android:paddingBottom="@dimen/materialcolorpicker__activity_vertical_margin"
         android:paddingLeft="@dimen/materialcolorpicker__activity_horizontal_margin"
         android:paddingRight="@dimen/materialcolorpicker__activity_horizontal_margin"
